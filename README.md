@@ -11,7 +11,7 @@ I'm a passionate developer with hands-on experience in React, Node.js, Express, 
 
 
 ## 🌱 Currently Learning/Expertising
- - Python for problem solving
+ - Python , JavaScript for problem solving
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sai-guru&show_icons=true&theme=radical)
