@@ -4,14 +4,15 @@ I'm a passionate developer with hands-on experience in React, Node.js, Express, 
 
 ## Skills & Technologies
 - 🧑‍💻 **Programming Languages**: JavaScript, Python
-- 🌐 **Frontend**: React, JavaScript, HTML, CSS, Bootstrap & Tailwind
+- 🌐 **Frontend**: React,TypeScript, JavaScript, HTML, CSS, Bootstrap & Tailwind
 - 🖥️ **Backend**: Node.js, Express, MongoDB, MySQL,Prisma
 - 🛠️ **Tools**: Git, GitHub, VS Code,Vercel
 
 
 
 ## 🌱 Currently Learning/Expertising
- - Python , JavaScript for problem solving
+ - JavaScript for problem solving
+ - TypeScript
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sai-guru&show_icons=true&theme=radical)
