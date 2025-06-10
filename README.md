@@ -14,7 +14,7 @@ I'm a passionate developer with hands-on experience in React, Node.js, Express, 
  - TypeScript for problem solving
 
 ## 📈 GitHub Stats
-![Sai-guru's Stats](https://github-readme-stats.vercel.app/api?username=Sai-guru&theme=blue-green&show_icons=true&hide_border=false&count_private=true) ![Sai-guru's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-guru&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
+![Sai-guru's Stats](https://github-readme-stats.vercel.app/api?username=Sai-guru&theme=blue-green&show_icons=true&hide_border=false&count_private=true)       ![Sai-guru's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-guru&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
 
 ## 📈 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Prigeesh?theme=unicorn&font=Boogaloo&ext=activity)
