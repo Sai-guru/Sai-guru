@@ -3,10 +3,10 @@
 I'm a passionate developer with hands-on experience in React, Node.js, Express, MongoDB, MySQL,etc. I love building intuitive and efficient web applications that make a difference. Whether it's crafting my own projects or contributing to open-source, I'm always eager to learn, solve challenges, and collaborate with others to create meaningful solutions.
 
 ## Skills & Technologies
-- 🧑‍💻 **Programming Languages**: JavaScript, Python
+- 🧑‍💻 **Programming Languages**: JavaScript,TypeScript
 - 🌐 **Frontend**: React,TypeScript, JavaScript, HTML, CSS, Bootstrap & Tailwind
-- 🖥️ **Backend**: Node.js, Express, MongoDB, MySQL,Prisma
-- 🛠️ **Tools**: Git, GitHub, VS Code,Vercel
+- 🖥️ **Backend**: Node.js, Express, MongoDB, MySQL,Prisma , Redis
+- 🛠️ **Tools**: Git, GitHub, VS Code,Vercel , FireBase
 
 
 
