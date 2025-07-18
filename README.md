@@ -5,7 +5,7 @@ I'm a passionate developer with hands-on experience in React, Node.js, Express, 
 ## Skills & Technologies
 - 🧑‍💻 **Programming Languages**: JavaScript,TypeScript, Python & Java (Basics)
 - 🌐 **Frontend**: React,TypeScript, JavaScript, HTML, CSS, Bootstrap & Tailwind
-- 🖥️ **Backend**:TypeScript,Node.js, Express, MongoDB, MySQL,Prisma , Redis , FireBase
+- 🖥️ **Backend**:TypeScript,Node.js, Express, MongoDB, Postgre SQL,Prisma , Redis , FireBase
 - 🛠️ **Tools**: Git, GitHub, VS Code,Vercel,Render,Netlify
 
 
