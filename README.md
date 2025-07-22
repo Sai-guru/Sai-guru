@@ -6,7 +6,7 @@ I'm a passionate developer with hands-on experience in MERN & Typescript,etc... 
 - 🧑‍💻 **Programming Languages**: JavaScript,TypeScript, Python & Java (Basics)
 - 🌐 **Frontend**: React,TypeScript, JavaScript, HTML, CSS, Bootstrap & Tailwind
 - 🖥️ **Backend**:TypeScript,Node.js, Express, MongoDB, Postgre SQL,Prisma , Redis , FireBase
-- 🛠️ **Tools**: Git, GitHub, VS Code,Vercel,Render,Netlify
+- 🛠️ **Tools**: Docker,Git, GitHub,VS Code,Vercel,Render,Netlify
 
 
 
