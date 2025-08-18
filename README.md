@@ -2,6 +2,7 @@
 # Emerging Full Stack Dev
 
 I'm a passionate developer with hands-on experience in MERN & Typescript,etc..Whether it's crafting my own projects or contributing to open-source, I'm always eager to learn, solve challenges, and collaborate with others to create meaningful solutions.
+--I'm using ARCH btw..
 
 ## Skills & Technologies
 - 🧑‍💻 **Programming Languages**: JavaScript,TypeScript, Python & Java (Basics)
