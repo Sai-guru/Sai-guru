@@ -8,7 +8,7 @@ I'm a passionate developer with hands-on experience in MERN & Typescript,etc..Wh
 - 🌐 **Frontend**: React,TypeScript,JavaScript, HTML, CSS, Bootstrap & Tailwind
 - 🖥️ **Backend**:TypeScript,Node.js,Express, MongoDB, Postgre SQL,Redis,FireBase,GraphQL,Neon DB
 - 🛠️ **Tools & Technologies**: Docker,Git,GitHub,VS Code,Vercel,Render,Netlify
-- 🐧 **Linux-user** : Mint(before) , Arch (present)
+- 🐧 **Linux-user** : Mint(before) ,Arch (present)
 
 
 
