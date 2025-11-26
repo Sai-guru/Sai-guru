@@ -15,8 +15,8 @@ I'm a passionate developer with hands-on experience in MERN & Typescript,etc..Wh
 ## 🌱 Currently Learning/Expertising
  - problem solving
 
-## 📈 GitHub Stats
-   ![Sai-guru's Stats](https://github-readme-stats.vercel.app/api?username=Sai-guru&theme=blue-green&show_icons=true&hide_border=false&count_private=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-guru&layout=compact)](https://github.com/Sai-guru/github-readme-stats)
+## 📈 What I code with...
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-guru&layout=compact)](https://github.com/Sai-guru/github-readme-stats)
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/sai-guru-prigeesh-m-9a429730a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
