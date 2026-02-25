@@ -5,7 +5,7 @@ I'm a passionate developer with hands-on experience in MERN & Typescript,etc..Wh
 
 ## Skills & Technologies
 - 🧑‍💻 **Programming Languages**: JavaScript,TypeScript,Java & Python(Basics)
-- 🌐 **Frontend**: React,HTML,CSS,Bootstrap & Tailwind
+- 🌐 **Frontend**: Next.js,React,HTML,CSS,Bootstrap & Tailwind
 - 🖥️ **Backend**: SpringBoot,Node.js,Deno,Express,Hono,MongoDB,Postgre SQL,Redis,FireBase,GraphQL,Prisma ORM
 - 🛠️ **Tools & Technologies**: Docker,Git,GitHub,VS Code,Vercel,Render,Netlify,Railway
 - 🐧 **Linux-user** : Mint(before) ,Arch (present)
