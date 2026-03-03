@@ -35,9 +35,8 @@ I'm a passionate developer with hands-on experience in MERN & Typescript,etc..Wh
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="48"/>
-
   <br/><br/>
-
+  
 ## Environment 
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="48"/>
