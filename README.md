@@ -13,7 +13,7 @@ I'm a passionate developer with hands-on experience in MERN & Typescript,etc..Wh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="48"/>
-
+  <img width="12"/>
   <!-- Backend -->
   <img src="https://2mtegaywr8.ucarecd.net/79f3341e-c121-45c7-b6cc-ca73e4873512/springboot1.svg" height="48"/>
   <img width="12"/>
@@ -22,10 +22,12 @@ I'm a passionate developer with hands-on experience in MERN & Typescript,etc..Wh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="48"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="48"/>
+  <img width="12"/>
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48"/>
+  <img width="12"/>
   <!-- Database & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="48"/>
   <img width="12"/>
