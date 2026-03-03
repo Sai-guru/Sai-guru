@@ -31,6 +31,16 @@ I'm a passionate developer with hands-on experience in MERN & Typescript,etc..Wh
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"  height="40  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  height="40  />
+  <img width="12" />
+  <img src="https://2mtegaywr8.ucarecd.net/79f3341e-c121-45c7-b6cc-ca73e4873512/springboot1.svg"  height="40  />
+  <img width="12" />
+  <img  src="https://2mtegaywr8.ucarecd.net/b630f61b-8dc0-4491-935a-588cee3d443a/HonoStreamlineSvgLogos.svg"  height="40  />
+  <img width="12" />
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg"  height="40  />
+  <img width="12" />
+  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/denojs/denojs-original.svg" height="40  />
+  <img width="12" />
   
           
 
