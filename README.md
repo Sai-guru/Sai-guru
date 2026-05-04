@@ -1,6 +1,6 @@
 # Hi there, I'm Sai-guru! 👋
 
-**Emerging Full Stack Dev** <br></br>
+**Full Stack Dev** <br></br>
 I’m a full-stack developer with a strong focus on TypeScript. I work across frontend and backend, constantly exploring new tools and their approaches and I’m particularly interested in stable and modern development practices.
 
 ## I build and develop the websites with...
