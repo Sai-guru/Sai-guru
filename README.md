@@ -39,10 +39,11 @@ I’m a full-stack developer with a strong focus on TypeScript. I work across fr
   
 ## Environment 
 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="48"/>
+   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cachyos-linux.svg" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/arch-linux.svg" height="48"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/arch-linux.svg" height="48"/>
 
 </div>
 
